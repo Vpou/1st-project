@@ -1,5 +1,5 @@
-print("swag")
+print("no swag")
 
-print("my name is swagzilla")
+print("my name is scrub")
 
-print("i like dio")
+print("i like jojo")
